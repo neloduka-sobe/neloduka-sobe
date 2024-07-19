@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borys</h1>
 <h3 align="center">A Machine Learning Enthusiast from Toronto</h3>
-<img src="logo.jpg" alt="State of my mind" width="400" align="right">
+<img src="logo.jpg" alt="State of my mind" width="500" align="right">
 
 - 🔭 I’m currently working on **Retrieval-Augmented Generation**
 - 📖 Academics @ **Google Developer Student Club**
