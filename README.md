@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borys</h1>
 <h3 align="center">A passionate frontend developer from Toronto</h3>
-<img src="logo.jpg" alt="State of my mind" width="200">
+<img src="logo.jpg" alt="State of my mind" width="400" align="right">
 
 - 🔭 I’m currently working on **Retrieval-Augmented Generation**
 
