@@ -2,8 +2,9 @@
 <h3 align="center">A Machine Learning Enthusiast from Toronto</h3>
 <img src="logo.jpg" alt="State of my mind" width="500" align="right">
 
-- 🔭 I’m currently working on **Retrieval-Augmented Generation**
+- 🔭 I’m currently working on **Classification Probems on Time Series Data**
 - 📖 Academics @ **Google Developer Student Club**
+- 🤖 Machine Learning Developer @ **UTMIST**
 - 🎓 Studying **Computer Science & Statistics** @ University of Toronto
 - 💬 Ask me about [**GenAI Genesis**](https://genaigenesis.ca/), the largest GenAI hackathon in Canada
 
